@@ -32,6 +32,6 @@ The dataset is easily available [here](http://archive.ics.uci.edu/ml/datasets/Tw
  
 # Result
 
-I Performed Test Classification using Multinomial Naive Bayes(already implemented in sklearn) and got a presion of 0.79
+I Performed Test Classification using Multinomial Naive Bayes(already implemented in sklearn) and got a precision of 0.79
 
 Whereas, my own Implementation of Naive Bayes gives a precision of 0.80
